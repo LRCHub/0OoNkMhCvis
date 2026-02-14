@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Eyes on you",
+  "base_artist": "向井太一",
+  "createdAt": "2026-02-14T07:41:28.934019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eyes On You",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/01_Eyes_On_You_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "History Has Its Eyes On You",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/02_History_Has_Its_Eyes_On_You_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Eyes on You",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/03_All_Eyes_on_You_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Got My Eyes on You",
+      "artist": "Canned Heat & John Lee Hooker",
+      "has_synced": false,
+      "path": "select/04_I_Got_My_Eyes_on_You_Canned_Heat_&_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eyes On You",
+      "artist": "Automatic Loveletter",
+      "has_synced": true,
+      "path": "select/05_Eyes_On_You_Automatic_Loveletter.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Eyes on You",
+      "artist": "Philip Selway",
+      "has_synced": true,
+      "path": "select/06_All_Eyes_on_You_Philip_Selway.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eyes on You",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/07_Eyes_on_You_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eyes on You (Live from the Hollywood Bowl)",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/08_Eyes_on_You_(Live_from_the_Hollywood_Bowl)_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Got My Eyes on You",
+      "artist": "John Norum",
+      "has_synced": false,
+      "path": "select/09_Got_My_Eyes_on_You_John_Norum.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eyes on You",
+      "artist": "Veruca Salt",
+      "has_synced": true,
+      "path": "select/10_Eyes_on_You_Veruca_Salt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hurting Kind (I've Got My Eyes On You)",
+      "artist": "Robert Plant",
+      "has_synced": true,
+      "path": "select/11_Hurting_Kind_(I've_Got_My_Eyes_On_You)_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got My Eyes on You",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/12_I've_Got_My_Eyes_on_You_Gene_Vincent.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "eyes on me",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/13_eyes_on_me_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eyes on Me (acoustic version)",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/14_Eyes_on_Me_(acoustic_version)_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eyes On Eyes",
+      "artist": "Avey Tare",
+      "has_synced": true,
+      "path": "select/15_Eyes_On_Eyes_Avey_Tare.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Eyes on Me",
+      "artist": "Classixx feat. Harriet Brown",
+      "has_synced": true,
+      "path": "select/16_Eyes_on_Me_Classixx_feat._Harriet_Brown.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Eyes on Me",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/17_All_Eyes_on_Me_Clipse.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "Bo Burnham",
+      "has_synced": true,
+      "path": "select/18_All_Eyes_On_Me_Bo_Burnham.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Eyes On Fire",
+      "artist": "Treat",
+      "has_synced": true,
+      "path": "select/19_Eyes_On_Fire_Treat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eyes on you",
+      "artist": "向井太一",
+      "has_synced": false,
+      "path": "select/pl_01_Eyes_on_you_向井太一.txt"
+    }
+  ]
+}
